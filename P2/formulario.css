@@ -1,0 +1,42 @@
+.container{
+    text-align: center;
+}
+
+
+
+.shiroko{
+    width: 250px;
+    margin-right: 2000px;
+   
+    
+    
+}
+
+
+.row{
+    margin: auto;
+}
+
+nav{
+    position: absolute;
+    left: 500px;
+    top: 60px;
+}
+
+a:link
+{
+text-decoration:none;
+color:#3b5d60;
+}
+
+a:hover
+{
+margin-bottom: 3px solid #6c6a69;
+    background:white;
+}
+
+a:visited
+{
+color:#43cdd7;
+}
+
